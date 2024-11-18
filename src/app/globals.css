@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: #212529;
+}
+
+h1{
+  @apply font-bold text-[72px] leading-[87.14px] tracking-[-0.02em];
+}
